@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   I recently graduated from Cankaya University, Banking and Finance Department. I have highly interest in Fullstack Development. 
-For this, I am self teaching from some courses (such as Clarusway, Udemy, Patika.dev, etc...). I am open to work in Fullstack Development.
+For this, I am self teaching from some courses (such as Clarusway, Udemy, Patika.dev, etc...). 
 
  📫 How to reach me: caglayan.dogan96@gmail.com
  
