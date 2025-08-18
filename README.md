@@ -24,7 +24,7 @@ I have professional experience at **Aqwadem Consulting** and **Maarifa | UX & Co
 - Responsive Web Design, Telerik Kendo UI  
 
 **Backend**  
-- Node.js, Express.js, Python, PHP  
+- Node.js, Express.js, Python
 - SQL, PostgreSQL, MongoDB  
 
 **Tools & Platforms**  
